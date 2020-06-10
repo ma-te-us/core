@@ -45,6 +45,7 @@ TUYA_TYPE_TO_HA = {
     "fan": "fan",
     "light": "light",
     "scene": "scene",
+    "vacuum": "vacuum",
     "switch": "switch",
 }
 
